@@ -37,6 +37,6 @@ Hello! I'm a Data Engineer with a diverse skill set and a passion for continuous
 
 Feel free to reach out if you have any questions or would like to connect!
 
----
+--- https://www.linkedin.com/in/faizan14/
 
 Thank you for visiting my GitHub profile!
