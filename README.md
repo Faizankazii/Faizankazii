@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faizan Kazi. I work as a Data Engineer in Germany. I am also currently pursuing my Master's degree at FAU Germany.</p>
+<p align="left">My name is Faizan Kazi. I work as a Data Engineer in Germany. I am also currently pursuing my Master's in Artificial Intelligence degree at FAU Germany.</p>
 
 ###
 
