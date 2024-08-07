@@ -1,42 +1,53 @@
-# README
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## About Me
+###
 
-Hello! I'm a Data Engineer with a diverse skill set and a passion for continuous learning and self-improvement. Currently, I'm pursuing my master's in Artificial Intelligence at FAU Germany. Here's a bit more about my professional expertise and personal interests:
+<p align="left">My name is Faizan Kazi. I work as a Data Engineer in Germany. I am also currently pursuing my Master's degree at FAU Germany.</p>
 
-## Professional Skills
+###
 
-- **Data Engineering**: 
-  - Airflow
-  - Big Query
-  - Distributed Compute
-  - Dask Distributed Compute
-  - Advanced Level SQL
-  - Python
-  - C++
-  - C
-  - Linux
+<h2 align="left">About me</h2>
 
-- **Artificial Intelligence and Machine Learning**:
-  - Deep Learning
-  - Statistical Machine Learning
-  - Time Series Forecasting
-  - Natural Language Processing (NLP)
+###
 
-## Personal Interests
+<p align="left">✨ I enjoy buidling scalable data pipelines using latest technologies<br>✨  I have a working experience with Deep Learning and Statistical Machine learning models<br>✨ Interests: Podcasts with history and Space</p>
 
-- **Sports**: I am an avid cricket and football enthusiast.
-- **Reading**: I enjoy reading non-fiction books on self-improvement.
-- **Podcasts**: I like to listen to podcasts related to space and history.
+###
 
-## Education
+<h2 align="left">My Stack</h2>
 
-- **Master's in Artificial Intelligence**: Currently studying at FAU Germany.
+###
 
-## Contact
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+</div>
 
-Feel free to reach out if you have any questions or would like to connect!
-
---- https://www.linkedin.com/in/faizan14/
-
-Thank you for visiting my GitHub profile!
+###
